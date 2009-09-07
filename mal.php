@@ -3,7 +3,6 @@
 /*
 Plugin Name: MyAnimeList for Wordpress
 Version: 1.0
-Plugin URI: http://sofacore.net/blog/myanimelist-for-wordpress-plugin/
 Description: Displays your recently watched anime. Basically a rewrite of the last.fm-plugin written by Ricardo González.
 Author: André Lersveen
 Author URI: http://sofacore.net
